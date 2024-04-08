@@ -7,7 +7,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string[] originalArray = { "1234", "1567", "-2", "computer science" };
+        string[] originalArray = { "Russia", "Denmark", "Kazan"};
         int count = 0;
 
         for (int i = 0; i < originalArray.Length; i++)
@@ -20,7 +20,7 @@ class Program
 
         string[] newArray = new string[count];
         int index = 0;
-        
+
         for (int i = 0; i < originalArray.Length; i++)
         {
             if (originalArray[i].Length <= 3)

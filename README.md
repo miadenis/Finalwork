@@ -31,11 +31,16 @@
 5. Выводим новый массив в консоль
 
 
-Код на С#:
+Код:
 
-  static void Main(string[] args)
+```sh
+using System;
+
+class Program
+{
+    static void Main(string[] args)
     {
-        string[] originalArray = { "1234", "1567", "-2", "computer science" };
+        string[] originalArray = { "Russia", "Denmark", "Kazan"};
         int count = 0;
 
         for (int i = 0; i < originalArray.Length; i++)
@@ -48,7 +53,7 @@
 
         string[] newArray = new string[count];
         int index = 0;
-        
+
         for (int i = 0; i < originalArray.Length; i++)
         {
             if (originalArray[i].Length <= 3)
@@ -59,3 +64,17 @@
         }
         Console.WriteLine("[" + string.Join(", ", newArray) + "]");
     }
+}
+```
+
+Массивы:
+```sh
+
+[“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
+
+[“1234”, “1567”, “-2”, “computer science”] → [“-2”]
+
+[“Russia”, “Denmark”, “Kazan”] → []
+```
+
+![Терминал](Терминал.png)
