@@ -29,3 +29,33 @@
 3. Создаем нужный массив исходного размера
 4. Заполняем новый массив подходящими строками
 5. Выводим новый массив в консоль
+
+
+Код на С#:
+
+  static void Main(string[] args)
+    {
+        string[] originalArray = { "1234", "1567", "-2", "computer science" };
+        int count = 0;
+
+        for (int i = 0; i < originalArray.Length; i++)
+        {
+            if (originalArray[i].Length <= 3)
+            {
+                count++;
+            }
+        }
+
+        string[] newArray = new string[count];
+        int index = 0;
+        
+        for (int i = 0; i < originalArray.Length; i++)
+        {
+            if (originalArray[i].Length <= 3)
+            {
+                newArray[index] = originalArray[i];
+                index++;
+            }
+        }
+        Console.WriteLine("[" + string.Join(", ", newArray) + "]");
+    }

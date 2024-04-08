@@ -1,0 +1,15 @@
+/Users/moonpie/Desktop/Finalwork/Finalwork/FinalTask/bin/Debug/net8.0/FinalTask
+/Users/moonpie/Desktop/Finalwork/Finalwork/FinalTask/bin/Debug/net8.0/FinalTask.deps.json
+/Users/moonpie/Desktop/Finalwork/Finalwork/FinalTask/bin/Debug/net8.0/FinalTask.runtimeconfig.json
+/Users/moonpie/Desktop/Finalwork/Finalwork/FinalTask/bin/Debug/net8.0/FinalTask.dll
+/Users/moonpie/Desktop/Finalwork/Finalwork/FinalTask/bin/Debug/net8.0/FinalTask.pdb
+/Users/moonpie/Desktop/Finalwork/Finalwork/FinalTask/obj/Debug/net8.0/FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moonpie/Desktop/Finalwork/Finalwork/FinalTask/obj/Debug/net8.0/FinalTask.AssemblyInfoInputs.cache
+/Users/moonpie/Desktop/Finalwork/Finalwork/FinalTask/obj/Debug/net8.0/FinalTask.AssemblyInfo.cs
+/Users/moonpie/Desktop/Finalwork/Finalwork/FinalTask/obj/Debug/net8.0/FinalTask.csproj.CoreCompileInputs.cache
+/Users/moonpie/Desktop/Finalwork/Finalwork/FinalTask/obj/Debug/net8.0/FinalTask.sourcelink.json
+/Users/moonpie/Desktop/Finalwork/Finalwork/FinalTask/obj/Debug/net8.0/FinalTask.dll
+/Users/moonpie/Desktop/Finalwork/Finalwork/FinalTask/obj/Debug/net8.0/refint/FinalTask.dll
+/Users/moonpie/Desktop/Finalwork/Finalwork/FinalTask/obj/Debug/net8.0/FinalTask.pdb
+/Users/moonpie/Desktop/Finalwork/Finalwork/FinalTask/obj/Debug/net8.0/FinalTask.genruntimeconfig.cache
+/Users/moonpie/Desktop/Finalwork/Finalwork/FinalTask/obj/Debug/net8.0/ref/FinalTask.dll
