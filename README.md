@@ -78,3 +78,5 @@ class Program
 ```
 
 ![Терминал](Терминал.png)
+
+![Коммиты](commits.png)
