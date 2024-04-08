@@ -16,4 +16,8 @@
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → []
 
+
+Блок-схема задачи:
+
+
 ![Блок-схема drawio](https://github.com/miadenis/Finalwork/assets/157724243/0b417dc3-e1f3-4066-808b-c999e8827a71)
