@@ -20,3 +20,46 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+.1C/
+	.1cv8/
+	.CFUserTextEncoding
+	.DS_Store
+	.PenTablet/
+	.aspnet/
+	.cache/
+	.com.drweb.quarantine/
+	.cups/
+	.dotnet/
+	.gitconfig
+	.idlerc/
+	.lesshst
+	.local/
+	.mono/
+	.nuget/
+	.templateengine/
+	.viminfo
+	.vscode/
+	.yandex/
+	.zprofile
+	.zsh_history
+	.zsh_sessions/
+	Applications/
+	Desktop/
+	Documents/
+	Downloads/
+	GitInstructionWorkshop_2024_02_10/
+	Library/
+	Movies/
+	Music/
+	OneDrive - JSC BIOCAD/
+	OneDrive/
+	Pictures/
+	PlayOnMac's virtual drives
+	Public/
+	Yandex.Disk-mila.yermoshkina.localized/
+	Yandex.Disk.localized/
+	version_control_lection_3/
+	workshop/
+	"\320\257\320\275\320\264\320\265\320\272\321\201.\320\224\320\270\321\201\320\272 MY/"
+	"\320\257\320\275\320\264\320\265\320\272\321\201.\320\224\320\270\321\201\320\272/"
